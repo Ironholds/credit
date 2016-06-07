@@ -1,0 +1,20 @@
+Package: credit
+Type: Package
+Title: Easy Credits and Citations
+Version: 0.1.0
+Authors@R: c(
+    person(
+      given  = "Oliver",
+      family = "Keyes",
+      role   = c("aut", "cre"),
+      email  = "ironholds@gmail.com"),
+    person(
+      given  = "Peter",
+      family = "Meissner",
+      role   = c("ctb"))
+    )
+Maintainer: Oliver Keyes <ironholds@gmail.com>
+Description: TBD
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
