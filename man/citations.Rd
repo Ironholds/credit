@@ -5,7 +5,7 @@
 \title{function that returns citations for a list of packages}
 \usage{
 citations(packages = NULL, type = c("text", "bibtex", "raw", "html",
-  "markdown"))
+  "markdown", "list"), file = NULL)
 }
 \arguments{
 \item{packages}{if NULL the packages_in_use() function is used genarate a

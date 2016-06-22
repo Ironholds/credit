@@ -1,18 +1,21 @@
+Date: 2016-06-22
 Package: credit
 Type: Package
 Title: Easy Credits and Citations
-Version: 0.1.0
+Version: 0.1.2.90000
 Authors@R: c(
     person(
       given  = "Oliver",
       family = "Keyes",
       role   = c("aut", "cre"),
-      email  = "ironholds@gmail.com"),
+      email  = "ironholds@gmail.com"
+      ),
     person(
       given  = "Peter",
       family = "Meissner",
-      role   = c("ctb"))
+      role   = c("aut")
     )
+  )
 Maintainer: Oliver Keyes <ironholds@gmail.com>
 Description: TBD
 License: MIT + file LICENSE
